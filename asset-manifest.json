@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/fr-poc-pages/static/css/main.97d23a66.css",
+    "main.js": "/fr-poc-pages/static/js/main.5960b8f6.js",
+    "static/js/133.0f02b7fb.chunk.js": "/fr-poc-pages/static/js/133.0f02b7fb.chunk.js",
+    "static/js/849.46c73d1c.chunk.js": "/fr-poc-pages/static/js/849.46c73d1c.chunk.js",
+    "stencil-polyfills-css-shim.js": "/fr-poc-pages/static/js/stencil-polyfills-css-shim.42514b55.chunk.js",
+    "stencil-polyfills-dom.js": "/fr-poc-pages/static/js/stencil-polyfills-dom.1ce69463.chunk.js",
+    "static/js/826.432b2848.chunk.js": "/fr-poc-pages/static/js/826.432b2848.chunk.js",
+    "static/js/908.405766bd.chunk.js": "/fr-poc-pages/static/js/908.405766bd.chunk.js",
+    "static/js/157.3579d19b.chunk.js": "/fr-poc-pages/static/js/157.3579d19b.chunk.js",
+    "static/js/55.e20b3c40.chunk.js": "/fr-poc-pages/static/js/55.e20b3c40.chunk.js",
+    "static/js/76.f7eb0de6.chunk.js": "/fr-poc-pages/static/js/76.f7eb0de6.chunk.js",
+    "static/js/868.9ca4db54.chunk.js": "/fr-poc-pages/static/js/868.9ca4db54.chunk.js",
+    "static/js/787.0de169b5.chunk.js": "/fr-poc-pages/static/js/787.0de169b5.chunk.js",
+    "index.html": "/fr-poc-pages/index.html",
+    "main.97d23a66.css.map": "/fr-poc-pages/static/css/main.97d23a66.css.map",
+    "main.5960b8f6.js.map": "/fr-poc-pages/static/js/main.5960b8f6.js.map",
+    "133.0f02b7fb.chunk.js.map": "/fr-poc-pages/static/js/133.0f02b7fb.chunk.js.map",
+    "849.46c73d1c.chunk.js.map": "/fr-poc-pages/static/js/849.46c73d1c.chunk.js.map",
+    "stencil-polyfills-css-shim.42514b55.chunk.js.map": "/fr-poc-pages/static/js/stencil-polyfills-css-shim.42514b55.chunk.js.map",
+    "stencil-polyfills-dom.1ce69463.chunk.js.map": "/fr-poc-pages/static/js/stencil-polyfills-dom.1ce69463.chunk.js.map",
+    "826.432b2848.chunk.js.map": "/fr-poc-pages/static/js/826.432b2848.chunk.js.map",
+    "908.405766bd.chunk.js.map": "/fr-poc-pages/static/js/908.405766bd.chunk.js.map",
+    "157.3579d19b.chunk.js.map": "/fr-poc-pages/static/js/157.3579d19b.chunk.js.map",
+    "55.e20b3c40.chunk.js.map": "/fr-poc-pages/static/js/55.e20b3c40.chunk.js.map",
+    "76.f7eb0de6.chunk.js.map": "/fr-poc-pages/static/js/76.f7eb0de6.chunk.js.map",
+    "868.9ca4db54.chunk.js.map": "/fr-poc-pages/static/js/868.9ca4db54.chunk.js.map",
+    "787.0de169b5.chunk.js.map": "/fr-poc-pages/static/js/787.0de169b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d23a66.css",
+    "static/js/main.5960b8f6.js"
+  ]
+}
